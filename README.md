@@ -1354,4 +1354,4 @@ DownloadView
 * HoverView ★19 - 仿知乎的底部抽屉
 * VerificationCodeView ★16 - Android简单的验证码控件
 * LetterView ★11 - 选中字母完成单词
-转载自 https://hndeveloper.github.io/2017/github-android-ui.html
+* 转载自 https://hndeveloper.github.io/2017/github-android-ui.html
