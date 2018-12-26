@@ -1631,5 +1631,7 @@
   <li><a href="https://github.com/fashare2015/HoverView">HoverView</a> ★19 - 仿知乎的底部抽屉</li>
   <li><a href="https://github.com/yongming9011/VerificationCodeView">VerificationCodeView</a> ★16 - Android简单的验证码控件</li>
   <li><a href="https://github.com/dengzq/LetterView">LetterView</a> ★11 - 选中字母完成单词</li>
+  <li><a href="https://hndeveloper.github.io/2017/github-android-ui.html">转载自 红鸟网络Android团队Blog</a></li>
+  
   </body>
 </html>
